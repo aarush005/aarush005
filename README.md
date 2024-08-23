@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
+[![An image of @aarush005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarush005)](https://holopin.io/@aarush005)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
