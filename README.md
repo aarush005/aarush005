@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
 [![An image of @aarush005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aarush005)](https://holopin.io/@aarush005)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aarush005/aarush005/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aarush005/aarush005/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aarush005/aarush005/output/github-snake.svg" />
 </picture>
 
 <!--x axis divider-->
