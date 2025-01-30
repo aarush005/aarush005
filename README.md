@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 <!--Github stats-->
   <div align="center">
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=aarush005&theme=transparent&border_radius=8&card_width=600&card_height=250)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aarush005&theme=transparent" alt="GitHub Streak" /></a>
   </div>
   
 <!--x axis divider-->
